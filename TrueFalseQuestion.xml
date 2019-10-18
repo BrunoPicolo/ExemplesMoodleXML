@@ -2,11 +2,10 @@
 <question type="truefalse">
      <answer fraction="100">
         <text>true</text>
-        <feedback><text>Correct!</text></feedback>
+        <feedback><text>Emma</text></feedback>
      </answer>
      <answer fraction="0">
         <text>false</text>
         <feedback><text>Ooops!</text></feedback>
     </answer>
 </question>
-
