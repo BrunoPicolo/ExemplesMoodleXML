@@ -2,8 +2,8 @@
 <question type="truefalse">
      <answer fraction="100">
         <text>true</text>
-        <feedback><text>Emma</text></feedback>
-     </answer>
+        <feedback><text>Bruno!</text></feedback>
+	 </answer>
      <answer fraction="0">
         <text>false</text>
         <feedback><text>Ooops!</text></feedback>
